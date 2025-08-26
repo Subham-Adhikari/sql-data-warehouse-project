@@ -22,4 +22,4 @@ It focuses on building a **structured data warehouse**, performing **ETL operati
 - Sample **Power BI dashboards** and reports  
 - Data modeling following best practices  
 
-## Project Structure
+## About Me
