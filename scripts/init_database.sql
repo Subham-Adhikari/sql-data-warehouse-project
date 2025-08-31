@@ -77,3 +77,4 @@ GO                          -- go is basically is a separator , it tells complet
 CREATE SCHEMA silver;
 GO 
 CREATE SCHEMA gold;
+GO
