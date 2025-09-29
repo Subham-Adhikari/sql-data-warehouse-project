@@ -13,7 +13,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 This repository is a **personal Data Warehouse and Analytics project** by Subham Adhikari.  
 It focuses on building a **structured data warehouse**, performing **ETL operations**, and generating **analytics reports** for learning purposes.
 
-> ⚠️ This repository is currently **private** and is intended for personal learning and experimentation only.  
+> ⚠️ This project is for demonstration/portfolio purposes only and is not licensed for reuse.  
 
 ## Features
 - Creation of **Fact and Dimension tables**  
