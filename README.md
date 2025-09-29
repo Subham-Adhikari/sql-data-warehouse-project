@@ -6,7 +6,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 # Data Warehouse and Analytics Project
 
 ![Status](https://img.shields.io/badge/status-private-red)  
-![Language](https://img.shields.io/badge/language-MS-SQL-blue)  
+![Language](https://img.shields.io/badge/language-MS_SQL-blue)  
 ![Analytics](https://img.shields.io/badge/analytics-PowerBI-green)  
 
 ## Project Overview
